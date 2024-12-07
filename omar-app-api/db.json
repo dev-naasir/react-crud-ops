@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "MSI Pulse GL66",
+            "category": "Computer",
+            "price": 899,
+            "description": "MSI Pulse GL66 15.6\" FHD 144Hz Gaming Laptop: Intel Core i7-12700 RTX 3070 16GB 512GB NVMe",
+            "imageFilename": "msipulse.jpg",
+            "createdAt": "2024-11-11T17:46:54.890Z"
+        },
+        {
+            "id": 2,
+            "name": "Dell XPS 15",
+            "category": "Computer",
+            "price": 1299,
+            "description": "Dell XPS 15 15.6\" UHD Laptop: Intel Core i9, NVIDIA GTX 1650, 32GB RAM, 1TB SSD",
+            "imageFilename": "dellxps.jpg",
+            "createdAt": "2024-11-12T10:25:30.123Z"
+        },
+        {
+            "id": 3,
+            "name": "MacBook Pro 14",
+            "category": "Computer",
+            "price": 1999,
+            "description": "Apple MacBook Pro 14-inch M1 Pro Chip, 16GB RAM, 512GB SSD",
+            "imageFilename": "mbp14.jpeg",
+            "createdAt": "2024-11-13T12:20:15.567Z"
+        },
+        {
+            "id": 4,
+            "name": "Asus ROG Zephyrus",
+            "category": "Computer",
+            "price": 1500,
+            "description": "Asus ROG Zephyrus G14 Gaming Laptop: AMD Ryzen 9, RTX 3060, 16GB RAM, 1TB SSD",
+            "imageFilename": "asusrog.jpg",
+            "createdAt": "2024-11-14T09:15:00.345Z"
+        },
+        {
+            "id": 5,
+            "name": "HP Spectre x360",
+            "category": "Computer",
+            "price": 1399,
+            "description": "HP Spectre x360 14-inch Convertible Laptop: Intel Core i7, 16GB RAM, 1TB SSD",
+            "imageFilename": "hpspectre.jpg",
+            "createdAt": "2024-11-15T11:00:40.678Z"
+        },
+        {
+            "id": 6,
+            "name": "Lenovo ThinkPad X1",
+            "category": "Computer",
+            "price": 1199,
+            "description": "Lenovo ThinkPad X1 Carbon Gen 10: Intel Core i5, 16GB RAM, 512GB SSD",
+            "imageFilename": "thinkpadx1.jpg",
+            "createdAt": "2024-11-16T14:30:25.432Z"
+        },
+        {
+            "id": 7,
+            "name": "Acer Predator Helios",
+            "category": "Computer",
+            "price": 1350,
+            "description": "Acer Predator Helios 300 Gaming Laptop: Intel Core i7, RTX 3060, 16GB RAM, 512GB SSD",
+            "imageFilename": "acerpredator.jpg",
+            "createdAt": "2024-11-17T16:50:10.999Z"
+        },
+        {
+            "id": 8,
+            "name": "Samsung Galaxy Book",
+            "category": "Computer",
+            "price": 999,
+            "description": "Samsung Galaxy Book3 360: Intel Core i7, 16GB RAM, 512GB SSD",
+            "imageFilename": "galaxybook.jpg",
+            "createdAt": "2024-11-18T13:45:33.890Z"
+        },
+        {
+            "id": 9,
+            "name": "Razer Blade 15",
+            "category": "Computer",
+            "price": 1899,
+            "description": "Razer Blade 15 Gaming Laptop: Intel Core i9, RTX 3080, 32GB RAM, 1TB SSD",
+            "imageFilename": "razerblade.jpg",
+            "createdAt": "2024-11-19T15:10:55.234Z"
+        },
+        {
+            "id": 10,
+            "name": "Microsoft Surface Laptop",
+            "category": "Computer",
+            "price": 1499,
+            "description": "Microsoft Surface Laptop Studio: Intel Core i7, 16GB RAM, 512GB SSD",
+            "imageFilename": "surface.jpg",
+            "createdAt": "2024-11-20T08:20:12.123Z"
+        },
+        {
+            "id": 11,
+            "name": "iPhone 15 Pro Max",
+            "category": "Smartphone",
+            "price": 1599,
+            "description": "Apple iPhone 15 Pro Max: A17 Pro Chip, 8GB RAM, 256GB Storage, Titanium Design",
+            "imageFilename": "iphone15promax.jpeg",
+            "createdAt": "2024-12-06T08:20:12.123Z"
+        },
+        {
+            "id": 12,
+            "name": "iPhone 14",
+            "category": "Smartphone",
+            "price": 1099,
+            "description": "Apple iPhone 14: A15 Bionic Chip, 6GB RAM, 128GB Storage, Ceramic Shield",
+            "imageFilename": "iphone14.jpg",
+            "createdAt": "2024-12-06T08:20:12.123Z"
+        }
+    ]
+}
